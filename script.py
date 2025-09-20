@@ -18,8 +18,10 @@ def fetch_data(API_URL):
 
     df = pd.json_normalize(data['results'])
     logging.info(f"Data normalized successfully")
-    print(df.head())
-    df.to_csv('dividends_data.csv', index=False)
+    df.to_csv('dividends_data.csv', index=False, mode='a')
     logging.info(f"Data saved to dividends_data.csv successfully")
 
-fetch_data(API_URL=API_URL)
+
+
+if __name__ == "__main__":
+    fetch_data(API_URL)
