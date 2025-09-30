@@ -1,0 +1,75 @@
+2025-09-20 19:34:52,915 - INFO - Fetching data from polygon.io API
+2025-09-20 19:35:38,257 - INFO - Fetching data from polygon.io API
+2025-09-20 19:36:07,758 - INFO - Fetching data from polygon.io API
+2025-09-20 19:36:08,726 - INFO - Data fetched successfully: {"results": [{"cash_amount": 0.48975694000000003, "currency": "USD", "dividend_type": "CD", "ex_divi...
+2025-09-20 19:36:48,728 - INFO - Fetching data from polygon.io API
+2025-09-20 19:36:49,624 - INFO - Data fetched successfully: {"results": [{"cash_amount": 0.48975694000000003, "currency": "USD", "dividend_type": "CD", "ex_divi...
+2025-09-20 19:37:24,600 - INFO - Fetching data from polygon.io API
+2025-09-20 19:37:25,564 - INFO - Data fetched successfully
+2025-09-20 19:38:57,128 - INFO - Fetching data from polygon.io API
+2025-09-20 19:38:58,116 - INFO - Data fetched successfully
+2025-09-20 19:39:16,323 - INFO - Fetching data from polygon.io API
+2025-09-20 19:39:17,275 - INFO - Data fetched successfully
+2025-09-20 19:39:34,143 - INFO - Fetching data from polygon.io API
+2025-09-20 19:39:35,072 - INFO - Data fetched successfully
+2025-09-20 19:39:49,647 - INFO - Fetching data from polygon.io API
+2025-09-20 19:39:50,546 - INFO - Data fetched successfully
+2025-09-20 19:40:01,740 - INFO - Fetching data from polygon.io API
+2025-09-20 19:40:02,867 - INFO - Data fetched successfully
+2025-09-20 19:43:33,248 - INFO - Fetching data from polygon.io API
+2025-09-20 19:43:34,258 - INFO - Data fetched successfully
+2025-09-20 19:44:03,438 - INFO - Fetching data from polygon.io API
+2025-09-20 19:44:04,379 - INFO - Data fetched successfully
+2025-09-20 19:44:31,286 - INFO - Fetching data from polygon.io API
+2025-09-20 19:44:32,451 - INFO - Data fetched successfully
+2025-09-20 19:44:49,274 - INFO - Fetching data from polygon.io API
+2025-09-20 19:44:50,270 - INFO - Data fetched successfully
+2025-09-20 19:45:25,225 - INFO - Fetching data from polygon.io API
+2025-09-20 19:45:26,159 - INFO - Data fetched successfully
+2025-09-20 19:45:38,986 - INFO - Fetching data from polygon.io API
+2025-09-20 19:45:39,986 - INFO - Data fetched successfully
+2025-09-20 19:47:13,731 - INFO - Fetching data from polygon.io API
+2025-09-20 19:47:37,891 - INFO - Fetching data from polygon.io API
+2025-09-20 19:48:01,932 - INFO - Fetching data from polygon.io API
+2025-09-20 19:48:19,565 - INFO - Fetching data from polygon.io API
+2025-09-20 19:48:37,122 - INFO - Fetching data from polygon.io API
+2025-09-20 19:48:54,202 - INFO - Fetching data from polygon.io API
+2025-09-20 19:49:03,109 - INFO - Fetching data from polygon.io API
+2025-09-20 19:49:11,476 - INFO - Fetching data from polygon.io API
+2025-09-20 19:49:45,713 - INFO - Fetching data from polygon.io API
+2025-09-20 19:50:44,990 - INFO - Fetching data from polygon.io API
+2025-09-20 19:51:27,647 - INFO - Fetching data from polygon.io API
+2025-09-20 19:51:50,601 - INFO - Fetching data from polygon.io API
+2025-09-20 19:52:06,534 - INFO - Fetching data from polygon.io API
+2025-09-20 19:55:19,210 - INFO - Fetching data from polygon.io API
+2025-09-20 19:55:20,217 - INFO - Data fetched successfully
+2025-09-20 19:55:20,226 - INFO - Data normalized successfully
+2025-09-20 19:55:20,251 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:24:21,501 - INFO - Fetching data from polygon.io API
+2025-09-20 20:24:22,738 - INFO - Data fetched successfully
+2025-09-20 20:24:22,741 - INFO - Data normalized successfully
+2025-09-20 20:24:22,757 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:27:06,957 - INFO - Fetching data from polygon.io API
+2025-09-20 20:27:08,176 - INFO - Data fetched successfully
+2025-09-20 20:27:08,179 - INFO - Data normalized successfully
+2025-09-20 20:27:08,195 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:27:35,175 - INFO - Fetching data from polygon.io API
+2025-09-20 20:27:36,117 - INFO - Data fetched successfully
+2025-09-20 20:27:36,121 - INFO - Data normalized successfully
+2025-09-20 20:27:36,138 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:28:01,988 - INFO - Fetching data from polygon.io API
+2025-09-20 20:28:03,109 - INFO - Data fetched successfully
+2025-09-20 20:28:03,114 - INFO - Data normalized successfully
+2025-09-20 20:28:03,129 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:31:28,832 - INFO - Fetching data from polygon.io API
+2025-09-20 20:31:29,803 - INFO - Data fetched successfully
+2025-09-20 20:31:29,806 - INFO - Data normalized successfully
+2025-09-20 20:31:29,813 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:31:43,569 - INFO - Fetching data from polygon.io API
+2025-09-20 20:31:44,528 - INFO - Data fetched successfully
+2025-09-20 20:31:44,532 - INFO - Data normalized successfully
+2025-09-20 20:31:44,538 - INFO - Data saved to dividends_data.csv successfully
+2025-09-20 20:32:48,359 - INFO - Fetching data from polygon.io API
+2025-09-20 20:32:49,448 - INFO - Data fetched successfully
+2025-09-20 20:32:49,452 - INFO - Data normalized successfully
+2025-09-20 20:32:49,458 - INFO - Data saved to dividends_data.csv successfully
