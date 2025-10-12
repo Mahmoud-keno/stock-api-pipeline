@@ -142,3 +142,230 @@
 2025-09-30 21:10:44,361 - INFO - Connecting to Snowflake
 2025-09-30 21:10:44,585 - INFO - Snowflake version: 9.30.0
 2025-09-30 21:10:44,585 - INFO - Connected to Snowflake successfully
+2025-10-09 21:11:49,530 - INFO - Fetching data from polygon.io API
+2025-10-09 21:11:51,397 - INFO - Data fetched successfully
+2025-10-09 21:11:51,407 - INFO - Data normalized successfully
+2025-10-09 21:11:51,418 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:11:51,418 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:11:51,419 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:11:54,825 - INFO - Connecting to Snowflake
+2025-10-09 21:11:55,269 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:11:55,269 - INFO - Connected to Snowflake successfully
+2025-10-09 21:15:43,699 - INFO - Fetching data from polygon.io API
+2025-10-09 21:15:44,650 - INFO - Data fetched successfully
+2025-10-09 21:15:44,654 - INFO - Data normalized successfully
+2025-10-09 21:15:44,661 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:15:44,706 - INFO - Data read from dividends_data.csv successfully
+2025-10-09 21:15:44,706 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:15:44,707 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:15:45,902 - INFO - Connecting to Snowflake
+2025-10-09 21:15:46,053 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:15:46,054 - INFO - Connected to Snowflake successfully
+2025-10-09 21:16:11,752 - INFO - Fetching data from polygon.io API
+2025-10-09 21:16:12,618 - INFO - Data fetched successfully
+2025-10-09 21:16:12,622 - INFO - Data normalized successfully
+2025-10-09 21:16:12,629 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:16:12,653 - INFO - Data read from dividends_data.csv successfully
+2025-10-09 21:16:12,654 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:16:12,654 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:16:13,705 - INFO - Connecting to Snowflake
+2025-10-09 21:16:13,966 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:16:13,967 - INFO - Connected to Snowflake successfully
+2025-10-09 21:27:48,448 - INFO - Fetching data from polygon.io API
+2025-10-09 21:27:49,809 - INFO - Data fetched successfully
+2025-10-09 21:27:49,813 - INFO - Data normalized successfully
+2025-10-09 21:27:49,820 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:27:49,845 - INFO - Data read from dividends_data.csv successfully
+2025-10-09 21:27:49,845 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:27:49,846 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:27:51,882 - INFO - Connecting to Snowflake
+2025-10-09 21:27:52,052 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:27:52,052 - INFO - Connected to Snowflake successfully
+2025-10-09 21:28:51,758 - INFO - Fetching data from polygon.io API
+2025-10-09 21:28:52,739 - INFO - Data fetched successfully
+2025-10-09 21:28:52,742 - INFO - Data normalized successfully
+2025-10-09 21:28:52,749 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:28:52,815 - INFO - Data read from dividends_data.csv successfully
+2025-10-09 21:28:52,816 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:28:52,816 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:28:53,969 - INFO - Connecting to Snowflake
+2025-10-09 21:28:54,114 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:28:54,114 - INFO - Connected to Snowflake successfully
+2025-10-09 21:30:32,657 - INFO - Fetching data from polygon.io API
+2025-10-09 21:30:33,725 - INFO - Data fetched successfully
+2025-10-09 21:30:33,729 - INFO - Data normalized successfully
+2025-10-09 21:30:33,737 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:30:33,762 - INFO - Data read from dividends_data.csv successfully
+2025-10-09 21:30:33,762 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:30:33,763 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:30:34,805 - INFO - Connecting to Snowflake
+2025-10-09 21:30:34,955 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:30:34,956 - INFO - Connected to Snowflake successfully
+2025-10-09 21:32:02,323 - INFO - Fetching data from polygon.io API
+2025-10-09 21:32:03,552 - INFO - Data fetched successfully
+2025-10-09 21:32:03,556 - INFO - Data normalized successfully
+2025-10-09 21:32:03,562 - INFO - Data saved to dividends_data.csv successfully
+2025-10-09 21:32:03,595 - INFO - Data read from dividends_data.csv successfully
+2025-10-09 21:32:03,596 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-09 21:32:03,596 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-09 21:32:04,643 - INFO - Connecting to Snowflake
+2025-10-09 21:32:04,796 - INFO - Snowflake version: 9.31.0
+2025-10-09 21:32:04,797 - INFO - Connected to Snowflake successfully
+2025-10-12 18:08:18,403 - INFO - Fetching data from polygon.io API
+2025-10-12 18:08:20,092 - INFO - Data fetched successfully
+2025-10-12 18:08:20,103 - INFO - Data normalized successfully
+2025-10-12 18:08:20,109 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:08:20,150 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 18:08:20,151 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 18:08:20,151 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 18:08:25,230 - INFO - Connecting to Snowflake
+2025-10-12 18:08:25,562 - INFO - Snowflake version: 9.31.0
+2025-10-12 18:08:25,577 - INFO - Connected to Snowflake successfully
+2025-10-12 18:10:48,637 - INFO - Fetching data from polygon.io API
+2025-10-12 18:10:49,903 - INFO - Data fetched successfully
+2025-10-12 18:10:49,917 - INFO - Data normalized successfully
+2025-10-12 18:10:49,917 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:10:49,949 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 18:10:49,949 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 18:10:49,949 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 18:10:51,386 - INFO - Connecting to Snowflake
+2025-10-12 18:10:51,528 - INFO - Snowflake version: 9.31.0
+2025-10-12 18:10:51,528 - INFO - Connected to Snowflake successfully
+2025-10-12 18:17:20,954 - INFO - Fetching data from polygon.io API
+2025-10-12 18:17:22,142 - INFO - Data fetched successfully
+2025-10-12 18:17:22,142 - INFO - Data normalized successfully
+2025-10-12 18:17:22,151 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:20:23,575 - INFO - Fetching data from polygon.io API
+2025-10-12 18:20:24,727 - INFO - Data fetched successfully
+2025-10-12 18:20:24,727 - INFO - Data normalized successfully
+2025-10-12 18:20:24,743 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:22:25,842 - INFO - Fetching data from polygon.io API
+2025-10-12 18:22:26,989 - INFO - Data fetched successfully
+2025-10-12 18:22:26,989 - INFO - Data normalized successfully
+2025-10-12 18:22:27,006 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:25:00,560 - INFO - Fetching data from polygon.io API
+2025-10-12 18:25:01,625 - INFO - Data fetched successfully
+2025-10-12 18:25:01,625 - INFO - Data normalized successfully
+2025-10-12 18:25:01,640 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:26:02,331 - INFO - Fetching data from polygon.io API
+2025-10-12 18:26:03,562 - INFO - Data fetched successfully
+2025-10-12 18:26:03,577 - INFO - Data normalized successfully
+2025-10-12 18:26:03,577 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:27:43,335 - INFO - Fetching data from polygon.io API
+2025-10-12 18:27:44,283 - INFO - Data fetched successfully
+2025-10-12 18:27:44,283 - INFO - Data normalized successfully
+2025-10-12 18:27:44,299 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:29:47,931 - INFO - Fetching data from polygon.io API
+2025-10-12 18:30:03,764 - INFO - Data fetched successfully
+2025-10-12 18:30:03,770 - INFO - Data normalized successfully
+2025-10-12 18:30:03,780 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:30:03,843 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 18:30:03,843 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 18:30:03,843 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 18:30:26,994 - INFO - Connecting to Snowflake
+2025-10-12 18:30:27,763 - INFO - Snowflake version: 9.31.0
+2025-10-12 18:30:27,763 - INFO - Connected to Snowflake successfully
+2025-10-12 18:41:18,431 - INFO - Fetching data from polygon.io API
+2025-10-12 18:41:19,392 - INFO - Data fetched successfully
+2025-10-12 18:41:19,397 - INFO - Data normalized successfully
+2025-10-12 18:41:19,405 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:41:19,456 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 18:41:19,457 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 18:41:19,457 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 18:41:20,775 - INFO - Connecting to Snowflake
+2025-10-12 18:41:20,925 - INFO - Snowflake version: 9.31.0
+2025-10-12 18:41:20,925 - INFO - Connected to Snowflake successfully
+2025-10-12 18:45:27,773 - INFO - Fetching data from polygon.io API
+2025-10-12 18:45:28,706 - INFO - Data fetched successfully
+2025-10-12 18:45:28,709 - INFO - Data normalized successfully
+2025-10-12 18:45:28,715 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 18:45:28,753 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 18:45:28,755 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 18:45:28,755 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 18:45:29,929 - INFO - Connecting to Snowflake
+2025-10-12 18:45:30,067 - INFO - Snowflake version: 9.31.0
+2025-10-12 18:45:30,270 - INFO - Temporary stage created successfully
+2025-10-12 18:45:30,271 - INFO - Connected to Snowflake successfully
+2025-10-12 18:45:30,530 - INFO - Connection to Snowflake closed
+2025-10-12 20:02:58,861 - INFO - Fetching data from polygon.io API
+2025-10-12 20:02:59,952 - INFO - Data fetched successfully
+2025-10-12 20:02:59,952 - INFO - Data normalized successfully
+2025-10-12 20:02:59,952 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 20:12:16,175 - INFO - Fetching data from polygon.io API
+2025-10-12 20:12:17,614 - INFO - Data fetched successfully
+2025-10-12 20:12:17,614 - INFO - Data normalized successfully
+2025-10-12 20:12:17,630 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 20:12:17,677 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 20:12:17,677 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 20:12:17,677 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 20:12:19,055 - INFO - Connecting to Snowflake
+2025-10-12 20:12:19,181 - INFO - Snowflake version: 9.31.0
+2025-10-12 20:12:19,181 - INFO - Connected to Snowflake successfully
+2025-10-12 20:12:22,790 - INFO - Data written to Snowflake successfully: True, 1 chunks, 29028 rows
+2025-10-12 20:12:23,020 - INFO - Connection to Snowflake closed
+2025-10-12 20:21:48,876 - INFO - Fetching data from polygon.io API
+2025-10-12 20:21:49,842 - INFO - Data fetched successfully
+2025-10-12 20:21:49,845 - INFO - Data normalized successfully
+2025-10-12 20:21:49,852 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 20:21:49,909 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 20:21:49,909 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 20:21:49,909 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 20:21:51,125 - INFO - Connecting to Snowflake
+2025-10-12 20:21:51,269 - INFO - Snowflake version: 9.31.0
+2025-10-12 20:21:51,269 - INFO - Connected to Snowflake successfully
+2025-10-12 20:23:12,640 - INFO - Fetching data from polygon.io API
+2025-10-12 20:23:13,765 - INFO - Data fetched successfully
+2025-10-12 20:23:13,769 - INFO - Data normalized successfully
+2025-10-12 20:23:13,775 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 20:23:13,828 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 20:23:13,828 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 20:23:13,828 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 20:23:14,957 - INFO - Connecting to Snowflake
+2025-10-12 20:23:15,106 - INFO - Snowflake version: 9.31.0
+2025-10-12 20:23:15,106 - INFO - Connected to Snowflake successfully
+2025-10-12 20:23:48,057 - INFO - Fetching data from polygon.io API
+2025-10-12 20:23:48,922 - INFO - Data fetched successfully
+2025-10-12 20:23:48,926 - INFO - Data normalized successfully
+2025-10-12 20:23:48,933 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 20:23:49,002 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 20:23:49,003 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 20:23:49,003 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 20:23:50,286 - INFO - Connecting to Snowflake
+2025-10-12 20:23:50,426 - INFO - Snowflake version: 9.31.0
+2025-10-12 20:23:50,426 - INFO - Connected to Snowflake successfully
+2025-10-12 20:23:50,594 - INFO - Table DIVIDENDS created or already exists
+2025-10-12 20:23:54,384 - INFO - Data written to Snowflake successfully: True, 1 chunks, 32031 rows
+2025-10-12 20:23:54,610 - INFO - Connection to Snowflake closed
+2025-10-12 21:06:00,837 - INFO - Fetching data from polygon.io API
+2025-10-12 21:06:02,104 - INFO - Data fetched successfully
+2025-10-12 21:06:02,104 - INFO - Data normalized successfully
+2025-10-12 21:11:52,766 - INFO - Fetching data from polygon.io API
+2025-10-12 21:11:53,823 - INFO - Data fetched successfully
+2025-10-12 21:11:53,823 - INFO - Data normalized successfully
+2025-10-12 21:14:26,337 - INFO - Fetching data from polygon.io API
+2025-10-12 21:14:27,318 - INFO - Data fetched successfully
+2025-10-12 21:14:27,328 - INFO - Data normalized successfully
+2025-10-12 21:14:59,455 - INFO - Fetching data from polygon.io API
+2025-10-12 21:15:00,386 - INFO - Data fetched successfully
+2025-10-12 21:15:00,386 - INFO - Data normalized successfully
+2025-10-12 21:19:07,410 - INFO - Fetching data from polygon.io API
+2025-10-12 21:19:08,449 - INFO - Data fetched successfully
+2025-10-12 21:19:08,477 - INFO - Data normalized successfully
+2025-10-12 21:21:20,517 - INFO - Fetching data from polygon.io API
+2025-10-12 21:21:21,460 - INFO - Data fetched successfully
+2025-10-12 21:21:21,475 - INFO - Data normalized successfully
+2025-10-12 21:21:42,633 - INFO - Fetching data from polygon.io API
+2025-10-12 21:21:43,560 - INFO - Data fetched successfully
+2025-10-12 21:21:43,608 - INFO - Data normalized successfully
+2025-10-12 21:21:43,655 - INFO - Data written to new Parquet file successfully
+2025-10-12 21:21:43,655 - INFO - Data saved to dividends_data.parquet successfully
+2025-10-12 21:21:43,664 - INFO - Data saved to dividends_data.csv successfully
+2025-10-12 21:21:43,680 - INFO - Data read from dividends_data.csv successfully
+2025-10-12 21:21:43,681 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-12 21:21:43,681 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-12 21:21:44,947 - INFO - Connecting to Snowflake
+2025-10-12 21:21:45,094 - INFO - Snowflake version: 9.31.0
+2025-10-12 21:21:45,094 - INFO - Connected to Snowflake successfully
+2025-10-12 21:21:45,276 - INFO - Table DIVIDENDS created or already exists
+2025-10-12 21:21:48,074 - INFO - Data written to Snowflake successfully: True, 1 chunks, 1000 rows
+2025-10-12 21:21:48,298 - INFO - Connection to Snowflake closed
