@@ -369,3 +369,164 @@
 2025-10-12 21:21:45,276 - INFO - Table DIVIDENDS created or already exists
 2025-10-12 21:21:48,074 - INFO - Data written to Snowflake successfully: True, 1 chunks, 1000 rows
 2025-10-12 21:21:48,298 - INFO - Connection to Snowflake closed
+2025-10-17 22:23:34,155 - INFO - Fetching data from polygon.io API
+2025-10-17 22:23:34,710 - INFO - Data fetched successfully
+2025-10-17 22:28:42,686 - INFO - Fetching data from polygon.io API
+2025-10-17 22:28:43,209 - INFO - Data fetched successfully
+2025-10-17 22:39:05,564 - INFO - Retrieved 5 URLs to fetch data from. --main_script.py
+2025-10-17 22:39:05,564 - INFO - Fetching data from polygon.io API
+2025-10-17 22:39:06,411 - INFO - Data fetched successfully
+2025-10-17 22:39:06,427 - INFO - Data normalized successfully
+2025-10-17 22:39:06,435 - INFO - Data written to new Parquet file successfully
+2025-10-17 22:39:06,435 - INFO - Data saved to dividends_data.parquet successfully
+2025-10-17 22:39:06,443 - INFO - Data saved to dividends_data.csv successfully
+2025-10-17 22:39:06,461 - INFO - Data read from dividends_data.csv successfully
+2025-10-17 22:39:06,461 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-17 22:39:06,461 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-17 22:39:07,798 - INFO - Connecting to Snowflake
+2025-10-17 22:39:07,978 - INFO - Snowflake version: 9.32.1
+2025-10-17 22:39:07,978 - INFO - Connected to Snowflake successfully
+2025-10-17 22:39:08,135 - INFO - Table DIVIDENDS created or already exists
+2025-10-17 22:39:13,977 - INFO - Data written to Snowflake successfully: True, 1 chunks, 1000 rows
+2025-10-17 22:39:14,208 - INFO - Connection to Snowflake closed
+2025-10-17 22:39:14,208 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5&limit=1000 --main_script.py
+2025-10-17 22:39:14,208 - INFO - Fetching data from polygon.io API
+2025-10-17 22:39:15,282 - INFO - Data fetched successfully
+2025-10-17 22:39:15,285 - INFO - Data normalized successfully
+2025-10-17 23:39:25,217 - INFO - Retrieved 5 URLs to fetch data from. --main_script.py
+2025-10-17 23:39:25,217 - INFO - Fetching data from polygon.io API
+2025-10-17 23:39:25,734 - ERROR - API request failed with status code: 429
+2025-10-17 23:39:25,734 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5&limit=1000 --main_script.py
+2025-10-17 23:39:25,734 - INFO - Fetching data from polygon.io API
+2025-10-17 23:39:26,265 - ERROR - API request failed with status code: 429
+2025-10-17 23:39:26,265 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-17 23:39:26,265 - INFO - Fetching data from polygon.io API
+2025-10-17 23:39:26,800 - ERROR - API request failed with status code: 429
+2025-10-17 23:39:26,800 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-17 23:39:26,800 - INFO - Fetching data from polygon.io API
+2025-10-17 23:39:27,324 - ERROR - API request failed with status code: 429
+2025-10-17 23:39:27,335 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-17 23:39:27,335 - INFO - Fetching data from polygon.io API
+2025-10-17 23:39:27,834 - ERROR - API request failed with status code: 429
+2025-10-17 23:39:27,834 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:02:08,847 - INFO - Retrieved 5 URLs to fetch data from. --main_script.py
+2025-10-18 00:02:08,847 - INFO - Fetching data from polygon.io API
+2025-10-18 00:02:09,716 - INFO - Data fetched successfully
+2025-10-18 00:02:09,739 - INFO - Data normalized successfully with 1000 records
+2025-10-18 00:02:09,782 - INFO - Data written to new Parquet file successfully. Records: 1000
+2025-10-18 00:02:09,790 - INFO - Data written to new CSV file successfully. Records: 1000
+2025-10-18 00:02:09,807 - INFO - Data read from dividends_data.csv successfully. Records: 1000
+2025-10-18 00:02:09,807 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-18 00:02:09,809 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-18 00:02:11,313 - INFO - Connecting to Snowflake
+2025-10-18 00:02:11,531 - INFO - Snowflake version: 9.32.1
+2025-10-18 00:02:11,701 - INFO - Table DIVIDENDS created or already exists
+2025-10-18 00:02:15,663 - INFO - Data written to Snowflake successfully: True, 1 chunks, 1000 rows
+2025-10-18 00:02:15,905 - INFO - Connection to Snowflake closed
+2025-10-18 00:02:15,906 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5&limit=1000 --main_script.py
+2025-10-18 00:02:15,907 - INFO - Fetching data from polygon.io API
+2025-10-18 00:02:16,461 - ERROR - API request failed with status code: 429
+2025-10-18 00:02:16,461 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:02:16,461 - INFO - Fetching data from polygon.io API
+2025-10-18 00:02:17,022 - ERROR - API request failed with status code: 429
+2025-10-18 00:02:17,023 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:02:17,023 - INFO - Fetching data from polygon.io API
+2025-10-18 00:02:17,541 - ERROR - API request failed with status code: 429
+2025-10-18 00:02:17,541 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:02:17,541 - INFO - Fetching data from polygon.io API
+2025-10-18 00:02:18,081 - ERROR - API request failed with status code: 429
+2025-10-18 00:02:18,081 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:07:06,817 - INFO - Retrieved 5 URLs to fetch data from. --main_script.py
+2025-10-18 00:07:06,818 - INFO - Fetching data from polygon.io API
+2025-10-18 00:07:07,684 - INFO - Data fetched successfully
+2025-10-18 00:07:07,688 - INFO - Data normalized successfully with 1000 records
+2025-10-18 00:07:07,725 - ERROR - Error handling Parquet file: parquet: File out of specification: A parquet file must contain a header and footer with at least 12 bytes
+
+This error occurred with the following context stack:
+	[1] 'parquet scan'
+	[2] 'sink'
+
+2025-10-18 00:07:07,748 - INFO - Data appended to existing CSV file successfully. Total records: 2000
+2025-10-18 00:07:07,748 - ERROR - Error reading CSV file: [Errno 2] No such file or directory: 'dividends_data.csv'
+2025-10-18 00:07:07,749 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5&limit=1000 --main_script.py
+2025-10-18 00:07:07,749 - INFO - Fetching data from polygon.io API
+2025-10-18 00:07:08,635 - INFO - Data fetched successfully
+2025-10-18 00:07:08,638 - INFO - Data normalized successfully with 1000 records
+2025-10-18 00:07:08,642 - ERROR - Error handling Parquet file: parquet: File out of specification: A parquet file must contain a header and footer with at least 12 bytes
+
+This error occurred with the following context stack:
+	[1] 'parquet scan'
+	[2] 'sink'
+
+2025-10-18 00:07:08,668 - INFO - Data appended to existing CSV file successfully. Total records: 3000
+2025-10-18 00:07:08,668 - ERROR - Error reading CSV file: [Errno 2] No such file or directory: 'dividends_data.csv'
+2025-10-18 00:07:08,669 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:07:08,669 - INFO - Fetching data from polygon.io API
+2025-10-18 00:07:09,164 - ERROR - API request failed with status code: 429
+2025-10-18 00:07:09,165 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:07:09,165 - INFO - Fetching data from polygon.io API
+2025-10-18 00:07:09,694 - ERROR - API request failed with status code: 429
+2025-10-18 00:07:09,694 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-18 00:07:09,694 - INFO - Fetching data from polygon.io API
+2025-10-18 00:07:10,195 - ERROR - API request failed with status code: 429
+2025-10-18 00:07:10,196 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 17:35:27,040 - INFO - Retrieved 5 URLs to fetch data from. --main_script.py
+2025-10-24 17:35:27,040 - INFO - Fetching data from polygon.io API
+2025-10-24 17:35:27,648 - ERROR - API request failed with status code: 429
+2025-10-24 17:35:27,649 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5&limit=1000 --main_script.py
+2025-10-24 17:35:27,649 - INFO - Fetching data from polygon.io API
+2025-10-24 17:35:28,328 - ERROR - API request failed with status code: 429
+2025-10-24 17:35:28,328 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 17:35:28,328 - INFO - Fetching data from polygon.io API
+2025-10-24 17:35:29,070 - ERROR - API request failed with status code: 429
+2025-10-24 17:35:29,071 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 17:35:29,071 - INFO - Fetching data from polygon.io API
+2025-10-24 17:35:29,788 - ERROR - API request failed with status code: 429
+2025-10-24 17:35:29,789 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 17:35:29,789 - INFO - Fetching data from polygon.io API
+2025-10-24 17:35:32,348 - ERROR - API request failed with status code: 429
+2025-10-24 17:35:32,349 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 18:01:14,467 - WARNING - Request failed with status 429 for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 -- get_URLs.py
+2025-10-24 18:03:59,114 - INFO - Retrieved 5 URLs to fetch data from. --main_script.py
+2025-10-24 18:03:59,114 - INFO - Fetching data from polygon.io API
+2025-10-24 18:03:59,631 - ERROR - API request failed with status code: 429
+2025-10-24 18:03:59,631 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5&limit=1000 --main_script.py
+2025-10-24 18:03:59,631 - INFO - Fetching data from polygon.io API
+2025-10-24 18:04:00,170 - ERROR - API request failed with status code: 429
+2025-10-24 18:04:00,170 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 18:04:00,170 - INFO - Fetching data from polygon.io API
+2025-10-24 18:04:00,682 - ERROR - API request failed with status code: 429
+2025-10-24 18:04:00,682 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 18:04:00,682 - INFO - Fetching data from polygon.io API
+2025-10-24 18:04:01,610 - INFO - Data fetched successfully
+2025-10-24 18:04:01,657 - INFO - Data normalized successfully with 1000 records
+2025-10-24 18:04:01,716 - INFO - Data written to new Parquet file successfully. Records: 1000
+2025-10-24 18:04:01,716 - INFO - New data written to CSV file (overwrote previous). Records: 1000
+2025-10-24 18:04:01,735 - INFO - Data read from CSV for Snowflake insertion. Records: 1000
+2025-10-24 18:04:01,735 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-24 18:04:01,735 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-24 18:04:08,366 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<snowflake.connector.vendored.urllib3.connection.HTTPConnection object at 0x00000228DE2185C0>, 'Connection to megaplusredirection.tedata.net timed out. (connect timeout=5)')': /VDSL-Redirection_100.html
+2025-10-24 18:04:14,591 - INFO - Connecting to Snowflake
+2025-10-24 18:04:14,767 - INFO - Snowflake version: 9.33.1
+2025-10-24 18:04:14,956 - INFO - Table DIVIDENDS created or already exists
+2025-10-24 18:04:21,124 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<snowflake.connector.vendored.urllib3.connection.HTTPConnection object at 0x00000228DE3D9130>, 'Connection to megaplusredirection.tedata.net timed out. (connect timeout=5)')': /VDSL-Redirection_100.html
+2025-10-24 18:04:29,629 - INFO - Data written to Snowflake successfully: True, 1 chunks, 1000 rows
+2025-10-24 18:04:29,870 - INFO - Connection to Snowflake closed
+2025-10-24 18:04:29,879 - INFO - CSV file cleared successfully after Snowflake insertion
+2025-10-24 18:04:29,879 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py
+2025-10-24 18:04:29,879 - INFO - Fetching data from polygon.io API
+2025-10-24 18:04:30,744 - INFO - Data fetched successfully
+2025-10-24 18:04:30,744 - INFO - Data normalized successfully with 1000 records
+2025-10-24 18:04:30,818 - INFO - Data appended to existing Parquet file successfully. Total records: 2000
+2025-10-24 18:04:30,829 - INFO - New data written to CSV file (overwrote previous). Records: 1000
+2025-10-24 18:04:30,834 - INFO - Data read from CSV for Snowflake insertion. Records: 1000
+2025-10-24 18:04:30,834 - INFO - Snowflake Connector for Python Version: 3.17.4, Python Version: 3.12.5, Platform: Windows-11-10.0.22631-SP0
+2025-10-24 18:04:30,834 - INFO - Connecting to GLOBAL Snowflake domain
+2025-10-24 18:04:31,652 - INFO - Connecting to Snowflake
+2025-10-24 18:04:31,826 - INFO - Snowflake version: 9.33.1
+2025-10-24 18:04:32,014 - INFO - Table DIVIDENDS created or already exists
+2025-10-24 18:04:37,899 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<snowflake.connector.vendored.urllib3.connection.HTTPConnection object at 0x00000228DE484980>, 'Connection to megaplusredirection.tedata.net timed out. (connect timeout=5)')': /VDSL-Redirection_100.html
+2025-10-24 18:04:44,753 - INFO - Data written to Snowflake successfully: True, 1 chunks, 1000 rows
+2025-10-24 18:04:44,988 - INFO - Connection to Snowflake closed
+2025-10-24 18:04:44,988 - INFO - CSV file cleared successfully after Snowflake insertion
+2025-10-24 18:04:44,988 - INFO - Data fetched and processed for URL: https://api.polygon.io/v3/reference/dividends?cursor=YXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ&apiKey=z_SdG_lBidTJrCAZiD1h9eIYmqIDCLn5 --main_script.py

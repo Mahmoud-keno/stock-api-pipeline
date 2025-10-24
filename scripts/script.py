@@ -19,7 +19,7 @@ def fetch_data(API_URL):
     # print first result from results key
     #print(data['results'][0])
     logging.info(f"Data fetched successfully")
-
+    ## fetch first page
     df = pd.json_normalize(data['results'])
     df_pl = pl.from_pandas(df)
     logging.info(f"Data normalized successfully")
