@@ -1,0 +1,11 @@
+services:
+  scheduler:
+    volumes:
+      - ./Data:/usr/local/airflow/Data
+      - ./include/Logs:/usr/local/airflow/include/Logs
+  
+  
+  triggerer:
+    volumes:
+      - ./Data:/usr/local/airflow/Data
+      - ./include/Logs:/usr/local/airflow/include/Logs
