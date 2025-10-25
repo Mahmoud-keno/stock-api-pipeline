@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+    - name: raw_stock_dividends
+      description: "Raw stock dividends data from Polygon API"
+      schema: POLYGON
+      tables:
+        name: dividends
+

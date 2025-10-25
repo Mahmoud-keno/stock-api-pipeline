@@ -1,5 +1,6 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 from include.Scripts.main_script import main 
 default_args = {
@@ -18,6 +19,7 @@ with dag:
     main_script_for_ETL = PythonOperator(
         task_id='main_script_for_ETL',
         python_callable=main
+
     )
 
 
