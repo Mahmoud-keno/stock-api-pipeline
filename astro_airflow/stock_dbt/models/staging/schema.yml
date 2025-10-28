@@ -1,0 +1,34 @@
+version: 2
+
+models:
+  - name: stg_dividends
+    description: "Staging model for stock dividends data"
+    columns:
+      - name: ticker
+        description: "Stock ticker symbol"
+        tests:
+          - not_null
+      - name: ex_dividend_date
+        description: "Ex-dividend date"
+        tests:
+          - not_null
+      - name: cash_amount
+        description: "Dividend cash amount"
+        tests:
+          - not_null
+      - name: pay_date
+        description: "Date when dividend is paid"
+        tests:
+          - not_null
+      - name: frequency
+        description: "Dividend payment frequency"
+      - name: dividend_type
+        description: "Type of dividend"
+      - name: currency
+        description: "Currency of dividend payment"
+      - name: record_date
+        description: "Record date for dividend eligibility"
+      - name: declaration_date
+        description: "Date when dividend was declared"
+      - name: id
+        description: "Unique identifier"

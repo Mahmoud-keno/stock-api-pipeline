@@ -16,12 +16,15 @@ dag = DAG(
 )    
 
 with dag:
-    main_script_for_ETL = PythonOperator(
+    main_script_for_ETL_and_loaded_into_snowflake = PythonOperator(
         task_id='main_script_for_ETL',
         python_callable=main
 
     )
+    transform_data_using_dbt = BashOperator(
+        task_id='transform_data_using_dbt',
+        bash_command='cd /usr/local/airflow/stock_dbt &&  dbt run --profiles-dir /usr/local/airflow/stock_dbt/.dbt'
+    )
 
 
-
-main_script_for_ETL
+main_script_for_ETL_and_loaded_into_snowflake >> transform_data_using_dbt

@@ -3,9 +3,13 @@ services:
     volumes:
       - ./Data:/usr/local/airflow/Data
       - ./include/Logs:/usr/local/airflow/include/Logs
+      - ./stock_dbt:/usr/local/airflow/stock_dbt
+      - ~/.dbt:/home/astro/.dbt
   
   
   triggerer:
     volumes:
       - ./Data:/usr/local/airflow/Data
       - ./include/Logs:/usr/local/airflow/include/Logs
+      - ./stock_dbt:/usr/local/airflow/stock_dbt
+      - ~/.dbt:/home/astro/.dbt
