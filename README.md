@@ -125,4 +125,3 @@ The **`stock_data_dag`** runs on a 5-minute schedule:
 2.  **`transform_data_using_dbt`**: Triggers dbt models to transform the loaded data.
 
 ---
-*Built with ❤️ by Data Expert Labs*
