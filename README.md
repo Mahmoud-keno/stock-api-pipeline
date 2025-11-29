@@ -14,6 +14,8 @@ It leverages **Polygon.io** as the primary data source, orchestrates workflows u
 
 ## 🏗️ Architecture
 
+![Architecture Diagram](architecture_diagram.png)
+
 The pipeline follows a modern ELT (Extract, Load, Transform) architecture:
 
 1.  **Extract**: Python scripts fetch real-time dividend data from the **Polygon.io API**.
@@ -38,6 +40,7 @@ stock-api-pipeline/
 ├── scripts/                # Standalone Python scripts
 ├── Data/                   # Local data storage (Parquet/CSV)
 ├── Dashboards from grafana/# Dashboard screenshots
+├── Logs in airflow/        # Execution logs and screenshots
 └── README.md               # Project documentation
 ```
 
@@ -94,6 +97,16 @@ Before running the project, ensure you have the following:
     cd astro_airflow/stock_dbt
     dbt run
     ```
+
+## 📉 Monitoring & Logs
+
+The pipeline execution is monitored via the Airflow UI. Below are examples of successful DAG runs and task logs.
+
+### Python ETL Execution
+![Python ETL Logs](Logs%20in%20airflow/python_etl.jpg)
+
+### dbt Transformation
+![dbt Transformation Logs](Logs%20in%20airflow/dbt_transformation.jpg)
 
 ## 📊 Dashboards
 
